@@ -1,0 +1,2 @@
+{"type": "SCHEMA", "stream": "image_objects", "key_properties": ["uri"], "schema": {"required": ["uri", "source_id", "ordinal"], "type": "object", "properties": {"uri": {"type": "string"}, "source_id": {"type": "string"}, "ordinal": {"type": "integer"}}}}
+{"type": "RECORD", "stream": "image_objects", "record": {"source_id": "1", "ordinal": 1}}
